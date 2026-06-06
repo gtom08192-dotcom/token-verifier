@@ -16,6 +16,10 @@ appName: Helios Empire LLC / Flores Empire LLC
 googleStoreUrl: https://play.google.com/store/apps/details?id=com.helios.empire
 appleStoreUrl: https://apps.apple.com/app/helios-empire
 sourceUrl: https://github.com/github/docs/blob/main/content/actions/get-started/actions-vs-apps.md
+ecommerceIntegrations:
+  - woocommerce
+  - square
+  - shopify
 ---
 
 ## GitHub Marketplace Offerings
@@ -45,4 +49,47 @@ GitHub Marketplace offers both GitHub Actions and GitHub Apps, each of which can
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.helios.empire)
 - [Apple App Store](https://apps.apple.com/app/helios-empire)
 
-**Source Documentation:** [Official GitHub Docs](https://github.com/github/docs/blob/main/content/actions/get-started/actions-vs-apps.md)
+---
+
+## E-Commerce Integrations
+
+Helios Empire LLC / Flores Empire LLC integrates seamlessly with leading e-commerce platforms:
+
+### WooCommerce Integration
+- Full product synchronization
+- Inventory management
+- Order tracking and fulfillment
+- Payment gateway integration
+- [WooCommerce Documentation](https://woocommerce.com)
+
+### Square Integration
+- Point-of-sale system connectivity
+- Real-time payment processing
+- Inventory sync across channels
+- Customer data management
+- [Square Developer Documentation](https://developer.squareup.com)
+
+### Shopify Integration
+- Native Shopify app compatibility
+- Product catalog sync
+- Order management automation
+- Multi-channel selling
+- [Shopify App Store](https://apps.shopify.com)
+
+---
+
+## Payment & Transaction Management
+
+Our platform supports multiple payment processors and transaction systems:
+
+- **Square**: Real-time transaction processing, invoicing, and reporting
+- **WooCommerce**: Open-source e-commerce with flexible payment options
+- **Shopify**: Secure payments with integrated payment processors
+
+---
+
+## Source Documentation
+
+**Official Reference:** [GitHub Actions vs Apps - GitHub Docs](https://github.com/github/docs/blob/main/content/actions/get-started/actions-vs-apps.md)
+
+**Helios Empire LLC / Flores Empire LLC** - Powering Your Business with Integrated Solutions
